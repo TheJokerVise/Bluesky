@@ -1,0 +1,27 @@
+{
+  "did": "did:plc:6gfzmmr6hbnty5n5celfqi4p",
+  "time_us": 1790846789380393,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk3fe7r72z",
+    "operation": "create",
+    "collection": "fm.teal.feed.play",
+    "rkey": "3mwsk3fdywh2z",
+    "record": {
+      "$type": "fm.teal.feed.play",
+      "artists": [
+        {
+          "artistName": "\u5C0F\u585A\u826F\u592A"
+        }
+      ],
+      "duration": 124,
+      "playedTime": "2026-10-01T09:26:25.000Z",
+      "recordingMbId": "mbid:5ce87b9b-972c-41e8-b16f-62ca620fa14e",
+      "releaseMbId": "mbid:7c52c500-626a-4d26-97d3-7e3b3d765e95",
+      "releaseName": "Shin Megami Tensei V 2-Disc Soundtrack",
+      "submissionClientAgent": "multi-scrobbler/0.19.2",
+      "trackName": "Cadaver\u0027s Hollow"
+    },
+    "cid": "bafyreielewqh7ygtvcf47kxk46ap7wlnbn5nux2noa4x5de6lhslklhday"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "did": "did:plc:5k2czjjfir76ivu2caraxfn3",
+  "time_us": 1790860009931192,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfc73md2j",
+    "operation": "create",
+    "collection": "app.bsky.graph.follow",
+    "rkey": "3mwswfc6wq32j",
+    "record": {
+      "$type": "app.bsky.graph.follow",
+      "createdAt": "2026-10-01T13:06:46.003Z",
+      "subject": "did:plc:gpzumzyrdogumlixcztwtaxq"
+    },
+    "cid": "bafyreicisgu47u3u4tsdvbfw5xdbzuda7vsn2xa37dp4gr4x2jijga67g4"
+  }
+}

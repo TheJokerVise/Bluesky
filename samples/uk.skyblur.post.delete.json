@@ -1,0 +1,11 @@
+{
+  "did": "did:plc:oqd5mm5z4m35igfzvpunypen",
+  "time_us": 1790860010360258,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfcmr472m",
+    "operation": "delete",
+    "collection": "uk.skyblur.post",
+    "rkey": "3mwsthxsgac6s"
+  }
+}

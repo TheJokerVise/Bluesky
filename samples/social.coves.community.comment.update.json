@@ -1,0 +1,32 @@
+{
+  "did": "did:plc:jdrcln3gzv3e4iistfdvtogg",
+  "time_us": 1790860018251139,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwlelyxyto22",
+    "operation": "update",
+    "collection": "social.coves.community.comment",
+    "rkey": "3mwkdezpqye56",
+    "record": {
+      "$type": "social.coves.community.comment",
+      "bridgedStats": {
+        "asOf": "2026-09-28T12:59:30.515553Z",
+        "downvotes": 0,
+        "upvotes": 2
+      },
+      "content": "There is a cool DIY retro computer kit, but the official tutorial/guide is in a dozen or so videos, approximately 1 hour each. No text equivalent IIRC.\n\nHalfway through the first video, the presenter says \u0022and to debug, you would need this clock board\u0022 (which is another kit). At least you can half-ass it, which is what I did. Then in video 4 or 5, you need a chip programmer (TBF i think there was a note that you might need it, but still is full stop otherwise). Kind of half-assed that one too, but still...\n\nIMO videos are a great presentation media, but are horrible as tutorials.",
+      "createdAt": "2026-09-28T03:05:18.271Z",
+      "reply": {
+        "parent": {
+          "cid": "bafyreidtug2uxvmhqmskwgpyqwwftgl3xh3dadka46jyhubddtursedio4",
+          "uri": "at://did:plc:3gmpd2xe4pskdobglc7d2glr/social.coves.community.postv2/3mwgm6grtfhyl"
+        },
+        "root": {
+          "cid": "bafyreidtug2uxvmhqmskwgpyqwwftgl3xh3dadka46jyhubddtursedio4",
+          "uri": "at://did:plc:3gmpd2xe4pskdobglc7d2glr/social.coves.community.postv2/3mwgm6grtfhyl"
+        }
+      }
+    },
+    "cid": "bafyreidrfoylunctpq6jnbn2kclidcyk4qekvo2n22pk46jm55j63uxdoy"
+  }
+}

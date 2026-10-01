@@ -1,0 +1,26 @@
+{
+  "did": "did:plc:zgsamnwdkf22xfrve32lfxzl",
+  "time_us": 1790860010672988,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfcxuko2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.threadgate",
+    "rkey": "3mwswfctivc2c",
+    "record": {
+      "$type": "app.bsky.feed.threadgate",
+      "allow": [
+        {
+          "$type": "app.bsky.feed.threadgate#followerRule"
+        },
+        {
+          "$type": "app.bsky.feed.threadgate#followingRule"
+        }
+      ],
+      "createdAt": "2026-10-01T13:06:46.931Z",
+      "hiddenReplies": [],
+      "post": "at://did:plc:zgsamnwdkf22xfrve32lfxzl/app.bsky.feed.post/3mwswfctivc2c"
+    },
+    "cid": "bafyreifmilupey742gdeiqbhlbselev54jos3226cl6bkjgkokdxkt722i"
+  }
+}

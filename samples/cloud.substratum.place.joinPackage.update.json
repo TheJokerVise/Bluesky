@@ -1,0 +1,29 @@
+{
+  "did": "did:plc:ybzliovml5pj667zoou34et6",
+  "time_us": 1790860013300900,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswffd5ma22",
+    "operation": "update",
+    "collection": "cloud.substratum.place.joinPackage",
+    "rkey": "personal_node:12D3KooWMonUtz2foyU3TSK37SNamS6qAzMd5BSJfL79K4WzQboo-12D3KooWMonUtz2foyU3TSK37SNamS6qAzMd5BSJfL79K4WzQboo",
+    "record": {
+      "$type": "cloud.substratum.place.joinPackage",
+      "ciphertext": "XW/DgWYRdF928vNIkptV\u002BNaVvTcF3WuPXF4xxkT8HVb\u002B2GORgV0ixfGB8auHt3wz483KoOWeV3kH0dWCbZGrZtwgl6FSmpkU/YD8YNqcBuo8DbohADRH7BDzzHw4aYnkVS2zzkTsLKi6xhOJriHBq0fhRPbpZKGy2ZG9dO/DzzlIonNZGnFSor/mIeNK3IBxonr61VS3tESGzW1VSmgmQ2x1O65dm3ZC3w3FOtkHq1ToUF3qZsGfILRqAL0tzvPaKPw07kwFmrTaSxdTyzZqcjM3AqQ=",
+      "claimerPeerId": "12D3KooWMonUtz2foyU3TSK37SNamS6qAzMd5BSJfL79K4WzQboo",
+      "consumeBudget": 1,
+      "createdAt": "2026-10-01T13:06:49.346094418\u002B00:00",
+      "expiresAt": "2026-10-01T13:21:49.345694626\u002B00:00",
+      "groupId": "did:plc:ybzliovml5pj667zoou34et6",
+      "hpkeAeadId": 3,
+      "hpkeKdfId": 1,
+      "hpkeKemId": 25722,
+      "issuerDid": "did:plc:s6kq5tsir7nbyrciloncz5b3",
+      "issuerPlaceId": "personal_node:12D3KooWK9dCUbvAgp3rT97cLkBbfk1eFo4ovdNMFgm8MgX3CTgm",
+      "kemEphemeralPublicKey": "Og\u002BpzSh\u002BXOQBgqQFbpCj9E12MyRNIJWVqf7SSA0C\u002BM3kPJO9bX/LZ20JUpGWU05or9B5mhZ2dTuM4ETeBH8iJe8MFNmofxyEVlKaBh31e\u002BEcVbMvOzZB6CiT6WrGJl3BhEI9kFlVLloRXLOIBVGcY2F8PYOo9i5IE5ktryFIa7qb0Nbp4JYae87ZfyChMJqEZ8AAof3EF\u002B6ApwEDqwX3/xvTE1px\u002BoBz9hCCxzK4leLioDC0WqQleDH9Q0lGSx\u002BpfE/2YxVe9cX\u002BNxF\u002BUpG6hizf5v83M3bbtVaADM/jZd6zbJbIJEjDpB/qTPuK3D1VoCXrzSLrsIijjr5\u002Bv8i686E0tw85q\u002BErRz7gGGuPVf/bzD\u002Bw5MYDrBb\u002BF2fMYKwkC5M7nsIOTB/sg1pq0b/ie3r2W9UfGz4R6I4bFLA5/ASaSjsrT/QZbylgQ4luMQKzXlXZCPf4Y3e2N3B4PaKWlBwPtddWnie0UQViWXH3bq\u002BG4/RtuEXEl0GLRowwXR0Rfngq9CgN9wKevBSoC7aFNgLPF9kr6aAAoEyqzCHCGNxHLmnV683jNT0p8z0wX302wpQr4vAOzV4ZRyx5izrA2xQMOPGIdugg/sd5jrADQY/Qoq5PLAVV3pSXlclsTb117v/lILLQQp1KJo2X6PbHd3TOjWkTXPyeqhEyzOP6ItQyjXX5urcdxmwuQ8K7HJK0oxc4F1Lsa8u4SP1C/eFJFqFH0DRW24o/x9vALBoWSdgFp0ZnYcn0PQOkDOfkA/AfnyeAO/Ck3WUh/VQFn/ADlx4Ed0xVS\u002BpEvwBFTZpHk0KZ\u002BoT//mVSzRAFX19\u002BEV9frGuP\u002Bn0k9zaTyq2CJ85fC6rHvpRzXE6TQuk\u002BQchlxuwbRccSZkMhQpktsY8xlWh3UqEU9oBH/aQbOQqnqRCSiMksEizbhNxnqlDXa2/nNLXcJu1FCIUGARilx6ynR1IvgPlOOYUNqDxtgIqdOoBpUNH05cfyry5qDWMHCokRPHRr19OLTgJfMF/nc1U/ya\u002BMq\u002BvfQGYhfDNJ\u002BRnX7E0e/budzIrM3VOjnTv9hw8bhhay1TnwM0grtB0nV5RCB7iKth6Ccyb7Pa4usafNXUYMrWBDXXofU4xAeH3EuLewe2L7pC/Ep3DoY5F9e1SgKWmOaH3KgSWs/QzvBzt3dlR5JdtJIXDp7544Nn9k\u002BvERgv3Hs/QdiWTq1EAUST\u002BRg3rXiQ\u002ByFDEZa/5ueH799U\u002BGGMvHI25qYK\u002BDN8HaOg2rzHxPXFqhEXFaqySoB6DKRBFeX/bO\u002B/eDp6fLHWrj\u002BpDNqq8gRLLdkp98B1odl7sh/ePDviyzlazH0RkOJy6nDBO7AcQ4Usg/wxySygUxZ1usOVxAIWXKD3gJbJDkYzvH8GEJYbK2dze3N4P537CGMpLOmgdpCmYnd2c13\u002BrcYeDvZ/bncDEauAR//4Lq0nkvim3x2Z7Kmnz/EcX5CI692veruzbh4VDZ0nJ\u002B8wmzi59SKg==",
+      "placeId": "personal_node:12D3KooWMonUtz2foyU3TSK37SNamS6qAzMd5BSJfL79K4WzQboo",
+      "reason": "join"
+    },
+    "cid": "bafyreic73bapieatcgrk42fli6esvdinfa4qgcrtaipexliurcvn2ipqru"
+  }
+}

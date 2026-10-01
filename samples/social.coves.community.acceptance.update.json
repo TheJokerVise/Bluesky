@@ -1,0 +1,20 @@
+{
+  "did": "did:plc:fvxfmyuorvioxhmomflh7stb",
+  "time_us": 1790860010938589,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwlek7sj5p22",
+    "operation": "update",
+    "collection": "social.coves.community.acceptance",
+    "rkey": "c4gmmeg5cxezqqsjvijjd6cqjkbuqn4sd76nzqubwvxch7pzna3a",
+    "record": {
+      "$type": "social.coves.community.acceptance",
+      "createdAt": "2026-09-28T00:00:09.293Z",
+      "subject": {
+        "cid": "bafyreifkwcjz62xxeonxkg4osqvjhxagc3aejr2dimyi7gs56dwskgqcxu",
+        "uri": "at://did:plc:zyurcxnyfbnmhyolq6jpxa4r/social.coves.community.postv2/3mwjyzxenwjzl"
+      }
+    },
+    "cid": "bafyreidpthsmdz3edmwyt6lpyjjevs4wfhl3fq6g7weepbzcl5f6uppkiu"
+  }
+}

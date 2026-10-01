@@ -1,0 +1,13 @@
+<Solution>
+  <!-- Cartella virtuale: i file compaiono in Esplora Soluzioni anche se non sono progetti C#. -->
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="docker-compose.yml" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Bluesky.Ingestor/Bluesky.Ingestor.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,41 @@
+{
+  "did": "did:plc:wkkydsmmry3ccungrt4xahcs",
+  "time_us": 1790860014668909,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfh7nhb2l",
+    "operation": "update",
+    "collection": "com.puzzmo.streak",
+    "rkey": "puzzmo-circuits",
+    "record": {
+      "$type": "com.puzzmo.streak",
+      "current": 399,
+      "gameDisplayName": "Circuits",
+      "gameSlug": "circuits",
+      "lastUpdated": "2026-10-01T05:00:00.000Z",
+      "max": 399,
+      "sigs": [
+        {
+          "attestation": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjBmMTA2M2NiLTgxYjgtNDI5OS05ZGM2LWY4ZDAzMzY2ZGU1NiJ9.eyJjdXJyZW50IjozOTksImdhbWVEaXNwbGF5TmFtZSI6IkNpcmN1aXRzIiwiZ2FtZVNsdWciOiJjaXJjdWl0cyIsImxhc3RVcGRhdGVkIjoiMjAyNi0xMC0wMVQwNTowMDowMC4wMDBaIiwibWF4IjozOTksInRlYW1TbHVnIjoicHV6em1vIiwidG90YWwiOjQwMH0.8SWf5az72pN7cl4zRiaELnl-bLnIjHbgoTLQzPr9NWHTB54zsyIBYN1sw2GpYxx0cASh8T_4jjP6k4cEfmSxFA",
+          "kid": "0f1063cb-81b8-4299-9dc6-f8d03366de56",
+          "signedAt": "2026-10-01T13:06:51.306Z",
+          "signedFields": [
+            "current",
+            "gameDisplayName",
+            "gameSlug",
+            "lastUpdated",
+            "max",
+            "remixSlug",
+            "teamSlug",
+            "total"
+          ],
+          "src": "at://did:plc:p5ode5bkf6vjtt6ahtssuxui/dev.keytrace.serverPublicKey/signing-keys-1"
+        }
+      ],
+      "syncedAt": "2026-10-01T13:06:51.306Z",
+      "teamSlug": "puzzmo",
+      "total": 400
+    },
+    "cid": "bafyreiesfjkgsjcbhqbbi76pm6cxdz4ruenpd5yjs3nl5uc4plzfydpvfi"
+  }
+}

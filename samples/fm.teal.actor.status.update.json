@@ -1,0 +1,31 @@
+{
+  "did": "did:plc:6gfzmmr6hbnty5n5celfqi4p",
+  "time_us": 1790846791490112,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk3hau7k2p",
+    "operation": "update",
+    "collection": "fm.teal.actor.status",
+    "rkey": "self",
+    "record": {
+      "$type": "fm.teal.actor.status",
+      "expiry": "2026-10-01T09:29:42.883Z",
+      "item": {
+        "artists": [
+          {
+            "artistName": "\u767D\u6FA4\u4EAE"
+          }
+        ],
+        "duration": 192,
+        "playedTime": "2026-10-01T09:26:26.672Z",
+        "recordingMbId": "mbid:582868cd-68ef-4b3b-9707-6af087aed0b8",
+        "releaseMbId": "mbid:7c52c500-626a-4d26-97d3-7e3b3d765e95",
+        "releaseName": "Shin Megami Tensei V 2-Disc Soundtrack",
+        "submissionClientAgent": "multi-scrobbler/0.19.2",
+        "trackName": "\u0022Shin Megami Tensei IV / Shin Megami Tensei IV: Apocalypse\u0022 Tokyo ~ Kinshicho Underground District"
+      },
+      "time": "2026-10-01T09:26:30.883Z"
+    },
+    "cid": "bafyreia4isplqr3gklixgfvzebt66d6wm4dgktvqe4zdc74k5txqw44mnq"
+  }
+}

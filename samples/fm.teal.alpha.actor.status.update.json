@@ -1,0 +1,35 @@
+{
+  "did": "did:plc:isyzsugou6cdcsiiud5vni65",
+  "time_us": 1790860022764327,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfpnpuw2j",
+    "operation": "update",
+    "collection": "fm.teal.alpha.actor.status",
+    "rkey": "self",
+    "record": {
+      "$type": "fm.teal.alpha.actor.status",
+      "expiry": "2026-10-01T13:17:00Z",
+      "item": {
+        "artists": [
+          {
+            "artistMbId": "mbid:7c2cc610-f998-43ef-a08f-dae3344b8973",
+            "artistName": "Feryquitous"
+          }
+        ],
+        "duration": 258,
+        "isrc": "CAHQJ1977064",
+        "musicServiceBaseDomain": "open.spotify.com",
+        "originUrl": "https://open.spotify.com/track/4EQ0QdF65s0l4nQznKQC0r",
+        "playedTime": "2026-10-01T13:06:59Z",
+        "recordingMbId": "mbid:71b9da76-b02f-470c-a137-7ef8a560fe95",
+        "releaseMbId": "mbid:7c68b1d3-38c9-40c4-b961-f001d4e3bcfa",
+        "releaseName": "Irui",
+        "submissionClientAgent": "piper/v0.0.7",
+        "trackName": "Erua"
+      },
+      "time": "2026-10-01T13:07:00Z"
+    },
+    "cid": "bafyreig7f5ipzitvllryshvihzwhyclyumbiz4hyhrlbq3vpkfxbuqwwke"
+  }
+}

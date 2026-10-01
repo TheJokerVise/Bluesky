@@ -1,0 +1,41 @@
+{
+  "did": "did:plc:z5udahlpedl5my5bjmvxbz5u",
+  "time_us": 1790860015939938,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfiovzx2x",
+    "operation": "create",
+    "collection": "app.rocksky.scrobble",
+    "rkey": "3mwswfi3tmc2n",
+    "record": {
+      "$type": "app.rocksky.scrobble",
+      "album": "KIDS SEE GHOSTS",
+      "albumArtUrl": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+      "albumArtist": "KIDS SEE GHOSTS, Kanye West, Kid Cudi",
+      "artist": "KIDS SEE GHOSTS",
+      "artists": [
+        {
+          "mbid": "793e220b-64f8-46d9-954d-e033dbcfeef4",
+          "name": "KIDS SEE GHOSTS"
+        }
+      ],
+      "composer": "evan mast, Kanye West, Scott Mescudi, Oladipo Omishore",
+      "copyrightMessage": "\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.",
+      "createdAt": "2026-10-01T13:04:03.000Z",
+      "discNumber": 1,
+      "duration": 324000,
+      "isrc": "USUM71808238",
+      "lyrics": "[00:28.57] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[00:34.06] Keep movin\u0027 forward, keep movin\u0027 forward\n[00:38.27] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[00:43.56] Keep movin\u0027 forward, keep movin\u0027 forward\n[00:48.02] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[00:53.01] Keep movin\u0027 forward, keep movin\u0027 forward\n[00:57.55] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[01:02.84] Keep movin\u0027 forward, keep movin\u0027 forward\n[01:26.48] Very rarely do you catch me out\n[01:28.45] Y\u0027all done especially invited guest\u0027d, me out\n[01:30.79] Y\u0027all been tellin\u0027 jokes that\u0027s gon\u0027 stress me out\n[01:33.22] Soon as I walk in, I\u0027m like \u0022Let\u0027s be out\u0022\n[01:35.68] I was off the chain, I was often drained\n[01:38.53] I was off the meds, I was called insane\n[01:41.18] What a awesome thing, engulfed in shame\n[01:43.35] I want all the rain, I want all the pain\n[01:45.53] I want all the smoke, I want all the blame\n[01:48.27] Cardio audio, let me jog your brain\n[01:50.47] Caught in the Audy Home, we was all detained\n[01:52.95] All of you Mario, it\u0027s all a game\n[01:55.16] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[02:00.46] Keep movin\u0027 forward, keep movin\u0027 forward\n[02:04.85] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[02:10.16] Keep movin\u0027 forward, keep movin\u0027 forward\n[02:14.22] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[02:19.79] Keep movin\u0027 forward, keep movin\u0027 forward\n[02:23.93] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[02:29.15] Keep movin\u0027 forward, keep movin\u0027 forward\n[02:33.65] I had my issues, ain\u0027t that much I could do\n[02:38.18] Peace is something that starts with me (With me)\n[02:42.43] At times, wonder my purpose\n[02:45.32] Easy then to feel worthless\n[02:47.44] But, peace is something that starts with me (With me, with me)\n[02:53.50] Had so much on my mind, I didn\u0027t know where to go\n[02:58.18] I\u0027ve come a long way from them hauntin\u0027 me\n[03:00.77] Had me feelin\u0027 oh so low\n[03:02.32] Ain\u0027t no stoppin\u0027 you, no way\n[03:05.03] Oh, things ain\u0027t like before\n[03:06.92] Ain\u0027t no stoppin\u0027 you, no way\n[03:09.81] No stress yes, I\u0027m so blessed and\n[03:11.99] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[03:17.21] Keep movin\u0027 forward, keep movin\u0027 forward\n[03:21.63] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[03:26.87] Keep movin\u0027 forward, keep movin\u0027 forward\n[03:31.05] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[03:36.52] Keep movin\u0027 forward, keep movin\u0027 forward\n[03:40.72] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[03:46.18] Keep movin\u0027 forward, keep movin\u0027 forward\n[04:02.19] Movin\u0027 forward, movin\u0027 forward, movin\u0027 forward\n[04:08.50] Movin\u0027 forward, keep movin\u0027 forward (Something was wrong)\n[04:11.83] Keep movin\u0027 forward (Couldn\u0027t hold on, why?)\n[04:14.16] Keep movin\u0027 forward (So long)\n[04:16.36] Keep movin\u0027 forward (Sit here in the storm)\n[04:18.69] Keep movin\u0027 forward (Time goes on)\n[04:21.03] Keep movin\u0027 forward (Really couldn\u0027t find my way out)\n[04:23.19] Keep movin\u0027 forward (Of the storm)\n[04:25.58] Keep movin\u0027 forward (Which way do I go?)\n[04:27.46] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward (Which way do I go?)\n[04:32.23] Keep movin\u0027 forward, keep movin\u0027 forward (Which way do I go?)\n[04:36.43] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward (Which way do I go?)\n[04:41.64] Keep movin\u0027 forward, keep movin\u0027 forward\n[04:45.97] Keep movin\u0027 forward, keep movin\u0027 forward\n[04:50.56] Keep movin\u0027 forward, keep movin\u0027 forward\n[04:55.09] Keep movin\u0027 forward, keep movin\u0027 forward\n[04:59.78] Keep movin\u0027 forward, keep movin\u0027 forward\n[05:03.73] I\u0027m so-I\u0027m so reborn, I\u0027m movin\u0027 forward\n[05:08.86] Keep movin\u0027 forward, keep movin\u0027 forward\n[05:12.70] Ain\u0027t no stress on me Lord, I\u0027m movin\u0027 forward\n[05:17.87] Keep movin\u0027 forward, keep movin\u0027 forward\n[05:22.09] ",
+      "mbid": "02f5cf43-a902-4b1f-b2d8-92d8550937ac",
+      "releaseDate": "2018-06-08T00:00:00.000Z",
+      "spotifyLink": "https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT",
+      "tags": [
+        "Rap/Hip Hop"
+      ],
+      "title": "Reborn",
+      "trackNumber": 5,
+      "year": 2018
+    },
+    "cid": "bafyreibvyefbn3husohu5xyfi66hd3zp4f23swdaworxxqnhinp4v2zu7m"
+  }
+}

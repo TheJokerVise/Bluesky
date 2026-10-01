@@ -1,0 +1,20 @@
+{
+  "did": "did:plc:xo5sew2ggwpnnfmqk2cx2swa",
+  "time_us": 1790846791723655,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk3hqrfx22",
+    "operation": "create",
+    "collection": "cafe.shelf.item",
+    "rkey": "3mwsk3haby2b4",
+    "record": {
+      "$type": "cafe.shelf.item",
+      "createdAt": "2026-10-01T09:26:31Z",
+      "source": "thelrm.org",
+      "summary": "Dear friends, Autumn lovers and loiterers There\u2019s some good psychogeography / loitering / Feminist Art of Walking stuff happening in October 2026 and I would love to see you along the way Sunday 4th October Manchester 2pm LRM First Sunday meet outside The Didsbury Pub, Wilmslow Rd M20 2SG By popular demand The LRM (Loiterers Resistance Movement) are wandering in Disbury this month. Our un-guide is Matthew (thanks Matthew) and all are welcome to join us. The direction and pace will be set collectively. We will drift for around 2 hours and then retire somewhere for a brew and story...",
+      "title": "October 2026 Diary",
+      "url": "http://thelrm.org/entries/general/october-2026-diary"
+    },
+    "cid": "bafyreih3gnqtq6lr7xsiji647oj2rpniti3ioutihv47ukrx2ir6ytii3y"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "did": "did:plc:p3avoeyg4h72k7gbey7basjr",
+  "time_us": 1790860010090811,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfcg3db24",
+    "operation": "delete",
+    "collection": "app.bsky.feed.like",
+    "rkey": "3mwsux27plw23"
+  }
+}

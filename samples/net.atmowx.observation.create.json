@@ -1,0 +1,70 @@
+{
+  "did": "did:plc:z5efhtji4vfiutzqquvx3w7o",
+  "time_us": 1790846784287532,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk37s6tk2n",
+    "operation": "create",
+    "collection": "net.atmowx.observation",
+    "rkey": "3mwsk32tko2nw",
+    "record": {
+      "$type": "net.atmowx.observation",
+      "airQuality": {
+        "pm25": {
+          "scale": -1,
+          "value": 10
+        }
+      },
+      "dewPoint": {
+        "scale": -1,
+        "value": 88
+      },
+      "observedAt": "2026-10-01T09:26:18.000Z",
+      "precipitation": {
+        "day": {
+          "scale": -1,
+          "value": 0
+        },
+        "hour": {
+          "scale": -1,
+          "value": 0
+        }
+      },
+      "pressureSeaLevel": {
+        "scale": -1,
+        "value": 10153
+      },
+      "pressureStation": {
+        "scale": -1,
+        "value": 10112
+      },
+      "relativeHumidity": {
+        "value": 77
+      },
+      "solarIrradiance": {
+        "scale": -1,
+        "value": 0
+      },
+      "station": "at://did:plc:z5efhtji4vfiutzqquvx3w7o/net.atmowx.station/3mremies2t222",
+      "temperature": {
+        "scale": -1,
+        "value": 128
+      },
+      "uvIndex": {
+        "value": 0
+      },
+      "wind": {
+        "direction": 197,
+        "gust": {
+          "scale": -1,
+          "value": 0
+        },
+        "speed": {
+          "scale": -1,
+          "value": 0
+        }
+      }
+    },
+    "cid": "bafyreicumcwvbrwvsnbs2znhle5khdkfk66t2fnmdw6oz4xtrtzwrgth5u"
+  }
+}

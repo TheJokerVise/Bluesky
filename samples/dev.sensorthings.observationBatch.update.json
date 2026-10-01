@@ -1,0 +1,356 @@
+{
+  "did": "did:plc:lkusli6ymkglqcfer7egoamv",
+  "time_us": 1790860027707336,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswg5pcdv2t",
+    "operation": "update",
+    "collection": "dev.sensorthings.observationBatch",
+    "rkey": "1029TH-level-downstage-i-15_min-mASD:20261001",
+    "record": {
+      "$type": "dev.sensorthings.observationBatch",
+      "datastream": "at://did:plc:lkusli6ymkglqcfer7egoamv/dev.sensorthings.datastream/1029TH-level-downstage-i-15_min-mASD",
+      "observations": [
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -359
+          },
+          "t": "2026-10-01T00:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -370
+          },
+          "t": "2026-10-01T00:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -372
+          },
+          "t": "2026-10-01T01:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -373
+          },
+          "t": "2026-10-01T01:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -373
+          },
+          "t": "2026-10-01T01:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -372
+          },
+          "t": "2026-10-01T01:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -370
+          },
+          "t": "2026-10-01T02:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -368
+          },
+          "t": "2026-10-01T02:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -368
+          },
+          "t": "2026-10-01T02:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -368
+          },
+          "t": "2026-10-01T02:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -370
+          },
+          "t": "2026-10-01T03:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -368
+          },
+          "t": "2026-10-01T03:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -368
+          },
+          "t": "2026-10-01T03:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -361
+          },
+          "t": "2026-10-01T03:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -356
+          },
+          "t": "2026-10-01T04:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -356
+          },
+          "t": "2026-10-01T04:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -359
+          },
+          "t": "2026-10-01T04:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -365
+          },
+          "t": "2026-10-01T04:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -369
+          },
+          "t": "2026-10-01T05:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -370
+          },
+          "t": "2026-10-01T05:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -373
+          },
+          "t": "2026-10-01T05:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -373
+          },
+          "t": "2026-10-01T05:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -374
+          },
+          "t": "2026-10-01T06:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -374
+          },
+          "t": "2026-10-01T06:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -373
+          },
+          "t": "2026-10-01T06:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -371
+          },
+          "t": "2026-10-01T06:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -370
+          },
+          "t": "2026-10-01T07:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -367
+          },
+          "t": "2026-10-01T07:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -353
+          },
+          "t": "2026-10-01T07:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -340
+          },
+          "t": "2026-10-01T07:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -333
+          },
+          "t": "2026-10-01T08:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -330
+          },
+          "t": "2026-10-01T08:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -330
+          },
+          "t": "2026-10-01T08:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -332
+          },
+          "t": "2026-10-01T08:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -338
+          },
+          "t": "2026-10-01T09:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -342
+          },
+          "t": "2026-10-01T09:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -345
+          },
+          "t": "2026-10-01T09:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -347
+          },
+          "t": "2026-10-01T09:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -349
+          },
+          "t": "2026-10-01T10:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -348
+          },
+          "t": "2026-10-01T10:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -343
+          },
+          "t": "2026-10-01T10:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -340
+          },
+          "t": "2026-10-01T10:45:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -340
+          },
+          "t": "2026-10-01T11:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -341
+          },
+          "t": "2026-10-01T11:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -343
+          },
+          "t": "2026-10-01T11:30:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -353
+          },
+          "t": "2026-10-01T12:00:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -354
+          },
+          "t": "2026-10-01T12:15:00Z"
+        },
+        {
+          "result": {
+            "$type": "dev.sensorthings.observation#numericResult",
+            "value": -354
+          },
+          "t": "2026-10-01T12:30:00Z"
+        }
+      ],
+      "windowEnd": "2026-10-01T12:30:00Z",
+      "windowStart": "2026-10-01T00:00:00Z"
+    },
+    "cid": "bafyreihhbrbwzzutzmbbhjnye2k3nbeszmukun6lyv3wajojvqpsxab6ga"
+  }
+}

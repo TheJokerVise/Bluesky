@@ -1,0 +1,48 @@
+{
+  "did": "did:plc:kb67kuy4rnrrarl4hcchwdic",
+  "time_us": 1790846783418008,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk37toos2y",
+    "operation": "create",
+    "collection": "ai.afrilingua.feed.content",
+    "rkey": "3mwsk37tkrs2y",
+    "record": {
+      "$type": "ai.afrilingua.feed.content",
+      "authorDid": "did:plc:kb67kuy4rnrrarl4hcchwdic",
+      "coverUrl": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/10/SA-Flags-Reuters-resized-874x577-1.jpg",
+      "createdAt": "2026-10-01T09:26:23.236506\u002B00:00",
+      "kind": "article",
+      "lifecycle": {
+        "ended_at": "",
+        "expires_at": "",
+        "revision": 0,
+        "scheduled_for": "",
+        "started_at": "",
+        "state": "active",
+        "state_at": "2026-10-01T09:26:23.236506\u002B00:00"
+      },
+      "payload": {
+        "body": "The Department of Sport, Arts and Culture says the Angola phase of the Exile Repatriation Project is an important step in restoring dignity to South Africans who died in exile during the liberation struggle.\n\nThe department, together with government and heritage partners, briefed affected families at Freedom Park Heritage Site \u0026 Museum in Pretoria ahead of a planned visit to Angola.\n\nWACTH | About 53 families will travel to Angola on Thursday to help bring home the remains of liberation struggle activists who died in exile, as part of a government-led repatriation project. pic.twitter.com/kYio8lilX5\n\n\u2014 SABC News (@SABCNews) September 30, 2026\n\nDeputy Director at the Department of Justice and Constitutional Development says, Thapelo Mokushane explained how local demands pushed the department to expand its long-standing mission.\n\nMokushane says, \u201C At least over 20 years, we have been working with the missing persons task team to exhume the remains inside the country in line with the Truth and Reconciliation Commission (TRC) recommendations. We were doing that job, the families also indicated the need for their loved ones who died in exile to also be brought back home. So that is why we are coming in as the Department of Justice to assist in familiarising and mobilisation.\u201D\n\nVideo | Angola Repatriation | Former freedom fighters\u2019 remains to be brought home",
+        "byline": "",
+        "canonical_url": "https://www.sabcnews.com/sabcnews/sa-exile-repatriation-project-moves-to-angola-phase/",
+        "excerpt": "South African Exile Repatriation Project moves to Angola phase",
+        "paywall_price_cents": 0,
+        "published_at": "2026-10-01T05:30:36\u002B00:00",
+        "publisher": "SABC News",
+        "publisher_did": "",
+        "reading_time": 1,
+        "series": "",
+        "source_feed_url": "https://www.sabcnews.com/sabcnews/feed/",
+        "word_count": 218
+      },
+      "summary": "South African Exile Repatriation Project moves to Angola phase",
+      "tags": [
+        "africa",
+        "southafrica"
+      ],
+      "title": "SA Exile Repatriation Project moves to Angola phase"
+    },
+    "cid": "bafyreidyui56nzdari6zlq5dtypyrm74e2qqcskbimdwfrr37iihyjua24"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "did": "did:plc:4crh3i5g32n7z2htplknjsxd",
+  "time_us": 1790860011151351,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfdhnjs2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.postgate",
+    "rkey": "3mwswfcvmbk2i",
+    "record": {
+      "$type": "app.bsky.feed.postgate",
+      "createdAt": "2026-10-01T13:06:46.902Z",
+      "detachedEmbeddingUris": [],
+      "embeddingRules": [
+        {
+          "$type": "app.bsky.feed.postgate#disableRule"
+        }
+      ],
+      "post": "at://did:plc:4crh3i5g32n7z2htplknjsxd/app.bsky.feed.post/3mwswfcvmbk2i"
+    },
+    "cid": "bafyreigrpioqknnstzn2ei4owyo7qwolvapj7tqagd75st75diw43yczae"
+  }
+}

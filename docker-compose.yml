@@ -1,0 +1,53 @@
+name: bluesky-pulse
+
+services:
+
+  # Il broker. Redpanda parla il protocollo Kafka: i client .NET (Confluent.Kafka)
+  # funzionano identici a come funzionerebbero con Kafka vero.
+  redpanda:
+    image: docker.redpanda.com/redpandadata/redpanda:v26.2.3
+    container_name: redpanda
+    command:
+      - redpanda
+      - start
+      # Due "porte d'ingresso" per il protocollo Kafka:
+      #   internal -> usata dagli altri container (redpanda:9092)
+      #   external -> usata dalle app sul tuo PC Windows (localhost:19092)
+      - --kafka-addr=internal://0.0.0.0:9092,external://0.0.0.0:19092
+      - --advertise-kafka-addr=internal://redpanda:9092,external://localhost:19092
+      - --schema-registry-addr=internal://0.0.0.0:8081,external://0.0.0.0:18081
+      - --rpc-addr=redpanda:33145
+      - --advertise-rpc-addr=redpanda:33145
+      # Profilo per sviluppo locale: 1 solo core, poca RAM, niente controlli hardware.
+      - --mode=dev-container
+      - --smp=1
+      - --memory=1G
+      - --default-log-level=info
+    ports:
+      - "19092:19092"   # Kafka API (dal PC)
+      - "18081:18081"   # Schema Registry (dal PC)
+      - "9644:9644"     # Admin API
+    volumes:
+      - redpanda-data:/var/lib/redpanda/data
+    healthcheck:
+      test: ["CMD-SHELL", "rpk cluster health | grep -E 'Healthy:.+true' || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 10
+
+  # Interfaccia web per VEDERE topic, partizioni, messaggi e consumer group.
+  console:
+    image: docker.redpanda.com/redpandadata/console:v3.12.0
+    container_name: redpanda-console
+    depends_on:
+      redpanda:
+        condition: service_healthy
+    environment:
+      KAFKA_BROKERS: redpanda:9092
+      KAFKA_SCHEMAREGISTRY_ENABLED: "true"
+      KAFKA_SCHEMAREGISTRY_URLS: http://redpanda:8081
+    ports:
+      - "8080:8080"
+
+volumes:
+  redpanda-data:

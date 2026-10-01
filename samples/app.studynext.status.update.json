@@ -1,0 +1,22 @@
+{
+  "did": "did:plc:nstib2qjcu3tyun7cxz4dxcm",
+  "time_us": 1790860023911401,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfqqtun2c",
+    "operation": "update",
+    "collection": "app.studynext.status",
+    "rkey": "self",
+    "record": {
+      "$type": "app.studynext.status",
+      "openTo": "public",
+      "planTitle": "StudyRoom",
+      "role": "host",
+      "shareStudying": true,
+      "startedAt": "2026-07-21T09:27:48.389Z",
+      "studying": true,
+      "updatedAt": "2026-10-01T13:07:01.418Z"
+    },
+    "cid": "bafyreigdlhuv7myjgl4x43rsae434fs3hu7bfc7xsexeasga5v2yokw2mu"
+  }
+}

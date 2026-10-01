@@ -1,0 +1,12 @@
+{
+  "did": "did:plc:cipuwmkancfgp3adlyopihzp",
+  "time_us": 1790860011733127,
+  "kind": "account",
+  "account": {
+    "active": false,
+    "did": "did:plc:cipuwmkancfgp3adlyopihzp",
+    "seq": 34092222474,
+    "status": "deleted",
+    "time": "2026-10-01T13:06:48.176Z"
+  }
+}

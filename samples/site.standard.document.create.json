@@ -1,0 +1,44 @@
+{
+  "did": "did:plc:piu6o3yjztvb2lzpxqeerabi",
+  "time_us": 1790860018082700,
+  "kind": "commit",
+  "commit": {
+    "rev": "22222435gbs22",
+    "operation": "create",
+    "collection": "site.standard.document",
+    "rkey": "3mwsweq2m6dy2",
+    "record": {
+      "$type": "site.standard.document",
+      "bskyPostRef": {
+        "cid": "bafyreifufsqhgj52kckom4snilildbougznfq6orokjhh22gox34znuffm",
+        "uri": "at://did:plc:piu6o3yjztvb2lzpxqeerabi/app.bsky.feed.post/3mwsweq2m4yy2"
+      },
+      "coverImage": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreiclfdah5hqluv3vgqx67cfj7ohtmfc3kumayhavswqs6kas5ynphm"
+        },
+        "mimeType": "image/jpeg",
+        "size": 91403
+      },
+      "path": "/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
+      "publishedAt": "2026-10-01T12:39:41.000Z",
+      "site": "https://www.macrumors.com",
+      "tags": [
+        "iPhone 18 Pro",
+        "Halide",
+        "Halide Mark III",
+        "iPhone 18 Pro: Using the New Variable Aperture Lens",
+        "download on the App Store",
+        "iPhone 18 Pro (Buy Now)",
+        "iPhone",
+        "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
+        "MacRumors.com",
+        "Discuss this article"
+      ],
+      "textContent": "Award-winning camera app Halide Mark III has been updated to version 3.2, bringing dedicated support for iPhone 18 Pro by broadening user control over the device\u0027s new variable aperture camera system.\n\n\nApple\u0027s stock Camera app lets iPhone 18 Pro owners choose from a four-stop variable aperture ranging from \u0192/1.48 to \u0192/4.0, delivering around 50 percent better low-light performance and giving users more optical control over depth of field.\n\nHalide 3.2 does away with that four-stop limitation and instead lets you select any \u0192-stop setting within the camera\u0027s full range.\n\nThere are two styles of aperture control in the app. The first is Aperture Priority mode, where you can set the \u0192-stop and the app handles the shutter speed and ISO to properly expose the shot.\n\nThe other style is Manual mode, which gives users full control over all three settings. This includes ISO settings \u2013 something that Apple\u0027s stock Camera app doesn\u0027t offer manual control over. Halide has said it is also considering adding f-stop presets in future updates, based on user feedback.\n\nElsewhere in _this_ update though, Halide 3.2 adds two new film simulations, or photographic looks: Dawn and Quicksilver. Dawn features \u0022filmic warmth in mid-tones and highlights, paired with rich yet gentle shadows and subtle complementary cool colors.\u0022\n\nQuicksilver is described as a \u0022high contrast and muted color\u0022 that simulates a \u0022silver-retention alternative process.\u0022 Halide\u0027s developers call it an \u0022excellent midpoint between color and stark black-and-white.\u0022\n\nLastly, version 3.2 introduces a new 16:9 aspect ratio shooting mode for those who want to use a wider framing.\n\n\n  * iPhone 18 Pro: Using the New Variable Aperture Lens\n\n\nHalide 3.2 is available to download on the App Store, and costs $69.99 as a one-time purchase price, or $19.99 for an annual subscription.\n\nRelated Roundup: iPhone 18 Pro\n\nTag: Halide\n\nBuyer\u0027s Guide: iPhone 18 Pro (Buy Now)\n\nRelated Forum: iPhone\n\n\nThis article, \u0022iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2\u0022 first appeared on MacRumors.com\n\nDiscuss this article in our forums\n\n",
+      "title": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2"
+    },
+    "cid": "bafyreifjx2p2qqfzdb54p3onnus3llrc4p7h2ogr7zap6sc7yu6ws6mhua"
+  }
+}

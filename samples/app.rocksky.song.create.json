@@ -1,0 +1,24 @@
+{
+  "did": "did:plc:6gfzmmr6hbnty5n5celfqi4p",
+  "time_us": 1790846793430960,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk3jfyyb2r",
+    "operation": "create",
+    "collection": "app.rocksky.song",
+    "rkey": "3mwsk3izssc2b",
+    "record": {
+      "$type": "app.rocksky.song",
+      "album": "Shin Megami Tensei V 2-Disc Soundtrack",
+      "albumArtUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "albumArtist": "\u5C0F\u585A\u826F\u592A",
+      "artist": "\u5C0F\u585A\u826F\u592A",
+      "createdAt": "2026-10-01T09:26:32.885Z",
+      "discNumber": 1,
+      "duration": 124000,
+      "tags": [],
+      "title": "Cadaver\u0027s Hollow"
+    },
+    "cid": "bafyreihd6odbwt3mcsxxukq5mjt5nh47oosgpzcirq6ziipgflh6a5gvxe"
+  }
+}

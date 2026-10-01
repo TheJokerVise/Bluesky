@@ -1,0 +1,32 @@
+{
+  "did": "did:plc:zetdcopkb5jgypu2lnwplog4",
+  "time_us": 1790846783901186,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwsk3a6eyy2q",
+    "operation": "update",
+    "collection": "place.stream.livestream",
+    "rkey": "3mwsj7hhj2o2q",
+    "record": {
+      "$type": "place.stream.livestream",
+      "agent": "@streamplace/components/0.11.29 (web, Chrome)",
+      "createdAt": "2026-10-01T09:10:51Z",
+      "idleTimeoutSeconds": 300,
+      "lastSeenAt": "2026-10-01T09:26:23.472Z",
+      "notificationSettings": {
+        "pushNotification": true
+      },
+      "thumb": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreid2wj4eo5gvilu4rkybscgkgq4wujk6k3yuvi36ptomlcn2d3et5y"
+        },
+        "mimeType": "image/jpeg",
+        "size": 48126
+      },
+      "title": "\uD83D\uDD34 Today on W Live 20:00 CEST. It\u0027s Not Paranoia, It\u0027s a Pattern. Anna Zeiter, Ingmar Rentzhog, Paul Radu \u0026 Nick Nuttall.",
+      "url": "https://live.wsocial.eu/did:plc:zetdcopkb5jgypu2lnwplog4"
+    },
+    "cid": "bafyreifiqfexfyve2fkwmk6auap5wd2v5wtcvlzamixvego2grsrdcfdt4"
+  }
+}

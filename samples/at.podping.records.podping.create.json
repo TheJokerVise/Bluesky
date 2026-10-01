@@ -1,0 +1,24 @@
+{
+  "did": "did:plc:64pdrjiffx4ihkmic5mbxzem",
+  "time_us": 1790860010921531,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwp7fsgwfc2h",
+    "operation": "create",
+    "collection": "at.podping.records.podping",
+    "rkey": "3mwp7frksy322",
+    "record": {
+      "$type": "at.podping.records.podping",
+      "iris": [
+        "https://www.spreaker.com/show/6185159/episodes/feed",
+        "https://www.spreaker.com/show/7183608/episodes/feed"
+      ],
+      "medium": "podcast",
+      "reason": "update",
+      "source": "hive:110351573:c99445fbb3be07c8f27aab40371162cce00c3d38:0:podping.ddd",
+      "timestamp": "2026-09-30T01:37:16.414903000Z",
+      "version": "1.1"
+    },
+    "cid": "bafyreia4gvfwslk6cwussuqae6xeckfqizlbicrrcvxnl3dlf64q3b43tq"
+  }
+}

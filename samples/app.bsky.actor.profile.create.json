@@ -1,0 +1,17 @@
+{
+  "did": "did:plc:ap6fn7pudmqo5ldwb3natyyo",
+  "time_us": 1790860013868069,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfghfve2f",
+    "operation": "create",
+    "collection": "app.bsky.actor.profile",
+    "rkey": "self",
+    "record": {
+      "$type": "app.bsky.actor.profile",
+      "createdAt": "2026-10-01T13:06:50.084Z",
+      "displayName": "ar-min1103.bsky.social"
+    },
+    "cid": "bafyreic4ldkkpbkwfojtbmy6zegtufwwu2dbmv5bi4kyfqhiyyo62btzvu"
+  }
+}

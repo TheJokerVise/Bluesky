@@ -1,0 +1,20 @@
+{
+  "did": "did:plc:nciw7oiixcvgb3vlsxldw3lv",
+  "time_us": 1790860026469857,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfs5etv2w",
+    "operation": "update",
+    "collection": "place.stream.broadcast.origin",
+    "rkey": "did:plc:nciw7oiixcvgb3vlsxldw3lv::did:web:prod-sea0.stream.place",
+    "record": {
+      "$type": "place.stream.broadcast.origin",
+      "broadcaster": "did:web:stream.place",
+      "server": "did:web:prod-sea0.stream.place",
+      "streamer": "did:plc:nciw7oiixcvgb3vlsxldw3lv",
+      "updatedAt": "2026-10-01T13:07:02.345Z",
+      "websocketURL": "wss://prod-sea0.stream.place/xrpc/place.stream.live.subscribeSegments?streamer=did%3Aplc%3Anciw7oiixcvgb3vlsxldw3lv"
+    },
+    "cid": "bafyreiaazkcquwci2pdmeamdwocspapudmzodnifh4kdncc7gd5akqamam"
+  }
+}

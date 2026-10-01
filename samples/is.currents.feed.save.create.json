@@ -1,0 +1,32 @@
+{
+  "did": "did:plc:w2fhn3e24w6komsksp4uvhva",
+  "time_us": 1790860010789027,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfcxswo2r",
+    "operation": "create",
+    "collection": "is.currents.feed.save",
+    "rkey": "3mwndl6ecrq22",
+    "record": {
+      "$type": "is.currents.feed.save",
+      "collection": {
+        "cid": "bafyreihcaxamujhysqn3evys4qshh3n73pudqzhrqgirv7wuxftnooadbm",
+        "uri": "at://did:plc:w2fhn3e24w6komsksp4uvhva/is.currents.feed.collection/3mwndcjq6j42g"
+      },
+      "content": {
+        "$type": "is.currents.content.image",
+        "image": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreicjr6dht3wpdcr37x2a737q3hzbidcy5stkhgdwkscs5l6tfpnwbm"
+          },
+          "mimeType": "image/jpeg",
+          "size": 114896
+        }
+      },
+      "createdAt": "2026-10-01T13:06:46.963Z",
+      "originUrl": "https://www.pinterest.com/pin/645492559122516177/"
+    },
+    "cid": "bafyreib6yymcoero2itmzbhjflyz3uam3xcts4vilewt7w7r5neufdxvaq"
+  }
+}

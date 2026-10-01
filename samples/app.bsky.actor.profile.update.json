@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:ab73nvm24nr3akmq6h3f7xlb",
+  "time_us": 1790860010364313,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwswfcgjyz2k",
+    "operation": "update",
+    "collection": "app.bsky.actor.profile",
+    "rkey": "self",
+    "record": {
+      "$type": "app.bsky.actor.profile",
+      "avatar": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreihrf5wmoautzausgabjhgxxw2dtyiza22b5c2bhxv5sm77lmle2om"
+        },
+        "mimeType": "image/jpeg",
+        "size": 152099
+      },
+      "banner": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreidzg6xxqb7dbytpxs75nbsvwlklx35lmqmc2ebvxuq7svg5riawou"
+        },
+        "mimeType": "image/jpeg",
+        "size": 12350
+      },
+      "createdAt": "2025-12-24T13:05:57.003Z",
+      "description": "\u6210\u4EBA\u6E08\u30AA\u30BF\u30AF\u3002\n\uD83E\uDD968\u5C02\u7528\u57A2(\u4FDD\u30AB\u30D5\u4E2D\u5FC3\u8150\u3042\u308A)\n\u203B\u3059\u3050\u306B\u5410\u304F",
+      "displayName": "91\u65E5\u5F8C\u30E9\u30E0\u8089\u306B\u306A\u308B\uD83D\uDC0F\u30C8\u30D0",
+      "labels": {
+        "$type": "com.atproto.label.defs#selfLabels",
+        "values": [
+          {
+            "val": "!no-unauthenticated"
+          }
+        ]
+      },
+      "pinnedPost": {
+        "cid": "bafyreif6zmxszm4c6eij3d3yavljram64rlsll5hthbjjwlvmkl7k75csa",
+        "uri": "at://did:plc:ab73nvm24nr3akmq6h3f7xlb/app.bsky.feed.post/3mfhjyvtokk2t"
+      }
+    },
+    "cid": "bafyreih4xkyvk3k6t7ppnkhfsbpm7mxr2ek6f2iknhoky7gu6qitldjxvu"
+  }
+}
